@@ -69,13 +69,13 @@ Based on the usability study findings, the following improvements were made:
 
 ## Prototypes
 
-- [Low-Fidelity Prototype](https://example.com/low-fi-prototype)
-- [High-Fidelity Prototype](https://example.com/high-fi-prototype)
+- [Low-Fidelity Prototype](https://xd.adobe.com/view/b9ba68a4-9620-4f60-b64d-c56ccf5cae11-ece9/)
+- [High-Fidelity Prototype](https://xd.adobe.com/view/6d065861-ec67-4316-8549-34521eabae73-3855/)
 
 ## Contact Information
 
 For more information or to get in touch, please contact:
 
 - **Email:** maitebosquet@outlook.com
-- **Portfolio:** [maitebdesign.uxportfolio.com](https://maitebdesign.uxportfolio.com)
+  
 
